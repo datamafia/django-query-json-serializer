@@ -9,4 +9,9 @@ Original reference and discovery notes are in the in the comments.
 
 ### Usage ###
 
+\# 
+from JSONSerializer import JSONSerializer
 
+z = JSONSerializer()
+
+json_encoded_string = z.serialize(DjangoQuerySet)
