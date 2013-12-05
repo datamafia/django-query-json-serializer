@@ -9,7 +9,6 @@ Original reference and discovery notes are in the in the comments.
 
 ### Usage ###
 
-\# 
 from JSONSerializer import JSONSerializer
 
 z = JSONSerializer()
