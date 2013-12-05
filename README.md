@@ -14,3 +14,5 @@ from JSONSerializer import JSONSerializer
 z = JSONSerializer()
 
 json_encoded_string = z.serialize(DjangoQuerySet)
+
+Works on other Python data types as well. Love this lib!
